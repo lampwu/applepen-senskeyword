@@ -1,0 +1,9 @@
+{"head":{"status":"200","data":{}},"body":{"content":{"hasErrors":true,"errors":{"0":"不得含有不适当的词句。"},"partNumber":"MU8F2CH/A"}}}
+{"head":{"status":"200","data":{}},"body":{"content":{"hasErrors":false,"partNumber":"MU8F2CH/A"}}}
+{"head":{"status":"200","data":{}},"body":{"content":{"hasErrors":true,"errors":{"0":"不得含有不适当的词句。"},"partNumber":"MU8F2CH/A"}}}
+{"head":{"status":"200","data":{}},"body":{"content":{"hasErrors":true,"errors":{"0":"不得含有不适当的词句。"},"partNumber":"MU8F2CH/A"}}}
+{"head":{"status":"200","data":{}},"body":{"content":{"hasErrors":false,"partNumber":"MU8F2CH/A"}}}
+{"head":{"status":"200","data":{}},"body":{"content":{"hasErrors":false,"partNumber":"MU8F2CH/A"}}}
+{"head":{"status":"200","data":{}},"body":{"content":{"hasErrors":false,"partNumber":"MU8F2CH/A"}}}
+{"head":{"status":"200","data":{}},"body":{"content":{"hasErrors":false,"partNumber":"MU8F2CH/A"}}}
+{"head":{"status":"200","data":{}},"body":{"content":{"hasErrors":false,"partNumber":"MU8F2CH/A"}}}
