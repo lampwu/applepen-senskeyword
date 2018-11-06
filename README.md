@@ -5,7 +5,7 @@
  运行 im.js 生成 message.txt 产生 apple 网站 response</br>
  请根据实际单次响应时间调节 ratePer: 1000 单位为 ms (观察方法：F12 然后在网站 (https://www.apple.com/cn/shop/product/MU8F2) 上输入词组</br>
  以 firefox 为例:</br>
- 网络-事件 https://www.apple.com/cn/shop/validate-engraving)--耗时</br>
+ 网络 事件 (https://www.apple.com/cn/shop/validate-engraving) 耗时</br>
  生成完毕后运行 fs7.js,sensitivewords.txt 出现敏感词.</br>
 
 
