@@ -14,4 +14,7 @@ for (let i = 0;i<res.length;i++) {
         end.push(ccs[i])
     }
   }
-console.log(end)
+fs.writeFile('sensitivewords.txt', end, (err) => {
+    if (err) throw err
+    console.log('success')
+})
